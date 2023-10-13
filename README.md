@@ -1,4 +1,28 @@
+<p align="center">
+    <img width="40%" src="./Preview/logo01.png" alt="brand logo" >
+</p>
+
 # BMW CONNECT
+
+## Project Overview
+The BMW CONNECT project integrates a mobile application and a dashboard, both of which are interconnected to provide users with a comprehensive and intuitive experience in controlling a simulated BMW vehicle. The mobile app, developed using the React Native framework, facilitates seamless user authentication and access to the vehicle system. On the other hand, the dashboard, hosted on a Raspberry Pi 4, serves as the central control unit, enabling real-time monitoring and synchronization with the mobile app. The project emphasizes a futuristic, neon-inspired design, incorporating a customized BMW branding identity for both the app and the dashboard.
+
+## Preview
+![THREADFOX](./Preview/01.gif)
+<details>
+  <summary>Click to expand for more images</summary>
+
+  ![Image 1](./Preview/02.gif)
+  ![Image 2](./Preview/Capture%20d’écran%202023-07-30%20202521.png)
+  ![Image 3](./Preview/Capture%20d’écran%202023-07-30%20202540.png)
+  ![Image 5](./Preview/Capture%20d’écran%202023-07-30%20202605.png)
+   ![Image 4](./Preview/Capture%20d’écran%202023-07-30%20202751.png)
+     ![Image 6](./Preview/Capture%20d’écran%202023-07-30%20202807.png)
+      ![Image 7](./Preview/Capture%20d’écran%202023-07-30%20203000.png)
+       ![Image 8](./Preview/Capture%20d’écran%202023-07-30%20203020.png)
+        ![Image 9](./Preview/Capture%20d’écran%202023-07-30%20203043.png)
+    
+</details>
 
 ## Table of Contents
 
