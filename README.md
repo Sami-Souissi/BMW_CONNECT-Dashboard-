@@ -7,7 +7,9 @@
 
 The code for this project is classified and not publicly accessible. Therefore, the repository does not contain any code. Please reach out to the project lead for further inquiries.
 ## Project Overview
-The BMW CONNECT project integrates a mobile application and a dashboard, both of which are interconnected to provide users with a comprehensive and intuitive experience in controlling a simulated BMW vehicle. The mobile app, developed using the React Native framework, facilitates seamless user authentication and access to the vehicle system. On the other hand, the dashboard, hosted on a Raspberry Pi 4, serves as the central control unit, enabling real-time monitoring and synchronization with the mobile app. The project emphasizes a futuristic, neon-inspired design, incorporating a customized BMW branding identity for both the app and the dashboard.
+The BMW CONNECT project integrates a [mobile application](https://github.com/Sami-Souissi/BMW_CONNECT-APP-)
+ and a [dashboard](https://github.com/Sami-Souissi/BMW_CONNECT-Dashboard-)
+, both of which are interconnected to provide users with a comprehensive and intuitive experience in controlling a simulated BMW vehicle. The mobile app, developed using the React Native framework, facilitates seamless user authentication and access to the vehicle system. On the other hand, the dashboard, hosted on a Raspberry Pi 4, serves as the central control unit, enabling real-time monitoring and synchronization with the mobile app. The project emphasizes a futuristic, neon-inspired design, incorporating a customized BMW branding identity for both the app and the dashboard.
 
 ## Preview
 ![THREADFOX](./Preview/01.gif)
