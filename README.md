@@ -3,7 +3,9 @@
 </p>
 
 # BMW CONNECT
+## Disclaimer
 
+The code for this project is classified and not publicly accessible. Therefore, the repository does not contain any code. Please reach out to the project lead for further inquiries.
 ## Project Overview
 The BMW CONNECT project integrates a mobile application and a dashboard, both of which are interconnected to provide users with a comprehensive and intuitive experience in controlling a simulated BMW vehicle. The mobile app, developed using the React Native framework, facilitates seamless user authentication and access to the vehicle system. On the other hand, the dashboard, hosted on a Raspberry Pi 4, serves as the central control unit, enabling real-time monitoring and synchronization with the mobile app. The project emphasizes a futuristic, neon-inspired design, incorporating a customized BMW branding identity for both the app and the dashboard.
 
@@ -28,6 +30,7 @@ The BMW CONNECT project integrates a mobile application and a dashboard, both of
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Tech Stack](#tech-stack)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Credits](#credits)
@@ -68,6 +71,25 @@ Admin users have additional privileges:
 - Access network control interface (WiFi and routing settings, data usage, connected devices, credentials management)
 - Control the server (power on/off)
 - Manage firewall settings (whitelisting, blacklisting, port forwarding, etc.)
+## Tech Stack
+
+### Dashboard
+
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-092E20?logo=django&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful_Soup-436F8E?logo=beautifulsoup&logoColor=white)
+![Pillow](https://img.shields.io/badge/-Pillow-8CAAE6?logo=pillow&logoColor=black)
+![Requests](https://img.shields.io/badge/-Requests-FFA500?logo=requests&logoColor=black)
+
+- Django
+- Django REST framework
+- Django Bootstrap4
+- Django Cors Headers
+- Beautiful Soup
+- Pillow
+- Social Auth Django
+- Requests
+- Typing Extensions
 
 ## Usage
 
@@ -83,12 +105,23 @@ To run this project locally, follow these steps:
 2. Install all the dependencies using `npm install`.
 3. Run the development server using `npm start`.
 
+```bash
+$ git clone https://github.com/username/repo-name.git
+$ cd repo-name
+$ npm install
+$ npm start
+```
+
+
 ## Credits
 
 This project was created for Primatek, utilizing a customized BMW branding identity for a visually appealing and functional interface design.
+<p align="center">
+    <img width="40%" src="./Preview/gsquzh30lnq54zikbcs7.webp" alt="brand logo" >
+</p>
+
 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
 
-For any inquiries or issues related to the project, please contact [Project Lead](mailto:projectlead@bmwconnect.com).
