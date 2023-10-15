@@ -117,7 +117,8 @@ $ npm start
 
 ## Credits
 
-This project was created for Primatek, utilizing a customized BMW branding identity for a visually appealing and functional interface design.
+
+BMW Connect, a revolutionary venture tailored for the automotive industry, represents the culmination of a rigorous and transformative summer internship program at Primatek Engineering. This immersive experience provided a fertile ground for cultivating innovative solutions within the dynamic sphere of automotive technology
 <p align="center">
     <img width="40%" src="./Preview/gsquzh30lnq54zikbcs7.webp" alt="brand logo" >
 </p>
